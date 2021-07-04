@@ -1,0 +1,45 @@
+body {
+  background-image: url('images/background.jpg');
+  background-size: cover;
+}
+
+.card-signin {
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.card-img-left {
+  width: 45%; 
+}
+
+.form-signin .btn {
+  font-size: 80%;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+.form-signin input {
+  border-radius: 1rem;
+}
+
+.btn-google {
+  color: white;
+  background-color: #ea4335;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  font-size: 80%;
+  padding: 1rem;
+}
+
+.btn-facebook {
+  color: white;
+  background-color: #3b5998;
+  border-radius: 5rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  font-size: 80%;
+  padding: 1rem;
+}
